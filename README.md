@@ -34,7 +34,7 @@ Chest X-ray examinations are frequent and cost-effective medical imaging procedu
 
 ### Model Architecture
 
-We have developed a custom model, `CustomDenseNet121`, based on the DenseNet121 architecture. This model is designed to handle the complexities of 7 types of common medical image classification.
+Developed a custom model, `CustomDenseNet121`, based on the DenseNet121 architecture. This model is designed to handle the complexities of 7 types of common medical image classification.
 
 ### Training Process
 
